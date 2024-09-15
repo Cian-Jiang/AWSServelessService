@@ -1,18 +1,18 @@
 # AWS-Serveless-Service
 
-# CloudSnap Service
+## Overview
+
+This project is a group assignment for the FIT5225 Cloud Computing and Security course at Monash University. It serves as a practical exercise to demonstrate the application of cloud computing concepts and security practices in a real-world scenario.
 
 CloudSnap is a serverless image processing and tagging system using AWS services. It allows users to upload images, detect objects, store and manage image metadata, and perform various operations like adding/removing tags and searching for images based on tags or other images.
 
-## Features
+## Educational Objectives
 
-- User authentication (including Google login)
-- Image upload and storage in S3
-- Object detection using YOLO (You Only Look Once)
-- Image metadata storage in DynamoDB
-- Add and remove tags for images
-- Search images by tags or by uploading a similar image
-- Delete images and their metadata
+- Implement a cloud-native application using serverless architecture
+- Apply security best practices in a cloud environment
+- Gain hands-on experience with AWS services including Lambda, S3, DynamoDB, and API Gateway
+- Develop skills in building scalable and resilient cloud applications
+
 
 ## Architecture
 
